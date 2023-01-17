@@ -3,7 +3,7 @@ prenom=input('votre prénom: ')
 age=int(input('votre age: '))
 print(nom,prenom,age)
 if age < 9 :
-    printlora('tout petit')
+    print('tout petit')
 elif age ==9 or age==10:
     print('poussin')
 elif age ==11 or age==12:
